@@ -34,7 +34,7 @@ Voicemail: Is your voicemail a concise, articulate and professional message? Is 
 
 Email: Are you using an appropriate email address? firstname.lastname@gmail.com is a simple, smart email format to use, whereas partygirl23@gmail.com is not. Avoid @aol, @hotmail. or @yahoo domains because they may be perceived as “out of touch” with technology. 
 
-When answering the phone from an unknown number (that might be an employer/recruiter): Smile and say “Hi! This is [NAME] !” instead of a suspicious “Hello?” The conversation will get off to a better start if you sound happy and enthusiastic to be taking the call.
+When answering the phone from an unknown number (that might be an employer/recruiter): Smile and say “Hi! This is [NAME]!” instead of a suspicious “Hello?” The conversation will get off to a better start if you sound happy and enthusiastic to be taking the call.
 
 Ideally, you will answer calls when you can speak audibly and comfortably, but recruiters understand that you might not be able to speak if they call you unannounced. If you answer a call from an unknown number and you happen to be in a loud place, it is okay to politely ask the recruiter if you can schedule to talk at a time when you can speak freely. 
 
@@ -44,7 +44,7 @@ When composing emails, make sure you:
 
 *Don’t* use slang language like “hey”, “what’s up?” or “yeah”. That’s too casual, even for the coolest of tech startups. 
 
-Do open each email with a greeting like “Hi!” or “Hello!” and close each email with a “Very best,” or “Warm regards,” followed by your name. Don’t address  anyone by their last name (i.e. don’t say “Hello Mrs. Smith”), that is overly formal and not a modern way that job applicants communicate. 
+*Do* open each email with a greeting like “Hi!” or “Hello!” and close each email with a “Very best,” or “Warm regards,” followed by your name. Don’t address  anyone by their last name (i.e. don’t say “Hello Mrs. Smith”), that is overly formal and not a modern way that job applicants communicate. 
 
 *Proofread* your emails before sending. You don’t want to accidentally send an email addressed to the wrong person, that contains typos or that uses the wrong company’s name. 
 
