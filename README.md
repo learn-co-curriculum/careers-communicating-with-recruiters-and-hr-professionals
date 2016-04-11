@@ -116,11 +116,25 @@ Keep any emotional, health, political, or religious topics to yourself (e.g. “
 
 Such topics are not relevant to your qualifications or important to a recruiter, and therefore shouldn’t be part of your communication.
 
-## Assignment 
+## Assignment- Communicating with Recruiters
 
-Which of these communication best practices are new to you? 
+Create a Google doc. Title it ""Your Name" + Communicating with Recruiters."
 
-Decide which of these you will work on to improve for upcoming interviews, and what actions you will take to improve them. Write a personal journal entry about it. 
+A recruiter who has emailed you directly to arrange an interview. Write a sample email response. Use the tips presented above to craft your response, but do not word-for-word copy the examples that we gave you. 
 
+**Submit** your assignment to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Communicating with Recruiters.”
+
+In the body of your email again include:
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url to this specific Google document
+
+Update your Careers Prep Tracker sheet with the date submitted.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-communicating-with-recruiters-and-hr-professionals'>Careers Communicating with Recruiters and HR Professionals </a> on Learn.co and start learning to code for free.</p>
