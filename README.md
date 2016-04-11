@@ -135,6 +135,6 @@ In the body of your email again include:
 
 >Url to this specific Google document
 
-Update your Careers Prep Tracker sheet with the date submitted.
+Update your Careers Prep Tracker sheet.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-communicating-with-recruiters-and-hr-professionals'>Careers Communicating with Recruiters and HR Professionals </a> on Learn.co and start learning to code for free.</p>
