@@ -118,25 +118,6 @@ Such topics are not relevant to your qualifications or important to a recruiter,
 
 ## Assignment- Communicating with Recruiters
 
-Create a Google doc. Title it ""Your Name" + Communicating with Recruiters."
-
-A recruiter who has emailed you directly to arrange an interview. Write a sample email response. Use the tips presented above to craft your response, but do not word-for-word copy the examples that we gave you. 
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
-
-Remember in the subject line to include your name and this specific assignment.
-
-In this case, your email subject line will be “”Your Name” + Communicating with Recruiters.”
-
-In the body of your email again include:
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url to this specific Google document
-
-Update your Careers Prep Tracker sheet.
+There is nothing specific to submit for this lesson. Once you are contacted by a recruiter or HR professional, run your response by your coach before submitting. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-communicating-with-recruiters-and-hr-professionals'>Careers Communicating with Recruiters and HR Professionals </a> on Learn.co and start learning to code for free.</p>
