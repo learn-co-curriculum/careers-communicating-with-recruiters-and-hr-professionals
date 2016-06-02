@@ -104,7 +104,7 @@ Examples of phrases to avoid:
 
       “I look forward to hearing more about the position with your company.” 
 
-      “My skills and enthusiasm make me a. perfect match for the role at your company.”
+      “My skills and enthusiasm make me a perfect match for the role at your company.”
 
 Speak in your own voice. 
 
@@ -121,3 +121,5 @@ Such topics are not relevant to your qualifications or important to a recruiter,
 There is nothing specific to submit for this lesson. Once you are contacted by a recruiter or HR professional, run your response by your coach before submitting. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-communicating-with-recruiters-and-hr-professionals'>Careers Communicating with Recruiters and HR Professionals </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-communicating-with-recruiters-and-hr-professionals'>Communicating With Recruiters And HR Professionals</a> on Learn.co and start learning to code for free.</p>
