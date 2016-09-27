@@ -118,8 +118,6 @@ Such topics are not relevant to your qualifications or important to a recruiter,
 
 ## Assignment- Communicating with Recruiters
 
-There is nothing specific to submit for this lesson. Once you are contacted by a recruiter or HR professional, run your response by your coach before submitting. 
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-communicating-with-recruiters-and-hr-professionals'>Careers Communicating with Recruiters and HR Professionals </a> on Learn.co and start learning to code for free.</p>
+There is nothing specific to submit for this lesson. If you have a premium account and once you are contacted by a recruiter or HR professional, run your response by your coach before submitting. 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-communicating-with-recruiters-and-hr-professionals'>Communicating With Recruiters And HR Professionals</a> on Learn.co and start learning to code for free.</p>
