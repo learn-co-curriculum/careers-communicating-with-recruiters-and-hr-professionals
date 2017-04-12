@@ -116,8 +116,8 @@ Keep any emotional, health, political, or religious topics to yourself (e.g. “
 
 Such topics are not relevant to your qualifications or important to a recruiter, and therefore shouldn’t be part of your communication.
 
-## Assignment- Communicating with Recruiters
+## Reminder
 
-There is nothing specific to submit for this lesson. If you have a premium account and once you are contacted by a recruiter or HR professional, run your response by your coach before submitting. 
+Once you are contacted by a recruiter or HR professional, run your response by your coach before submitting. 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-communicating-with-recruiters-and-hr-professionals'>Communicating With Recruiters And HR Professionals</a> on Learn.co and start learning to code for free.</p>
