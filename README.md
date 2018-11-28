@@ -24,13 +24,13 @@ In other words, always be responsibly responsive. Do not ever ‘ghost’ a pers
 
 Below are some best practices you must follow to ensure you are cultivating a positive relationship and impression throughout your job search and career as a whole.
 
--- Always reply back to a communication requests from a company in a timely manner (especially if facilitated by Flatiron School), whether they are emails, phone calls, etc.
--- Always show up for scheduled conversations/interviews, whether phone, virtual, or in-person. (if it’s a genuine emergency, notify your contact directly as far in advance as possible.)
--- Send a thank you after each and every meeting or interview.
--- Send a follow-up after an interview if you haven’t heard from a company.
--- If you are scheduled for an interview with a company that you aren’t 100% sure about, avoid making assumptions and instead approach the interview with an open mind; ask smart questions that get you the answers you need, and then make your decision based on that. 
--- If you interviewed with a company that you realize after the fact isn’t a good fit, have the professional courtesy to let them know that in a gracious and appreciative manner.
--- Your Career Coach is an expert at professional communication and can help you craft your responses to the scenarios above and many others.
+- Always reply back to a communication requests from a company in a timely manner (especially if facilitated by Flatiron School), whether they are emails, phone calls, etc.
+- Always show up for scheduled conversations/interviews, whether phone, virtual, or in-person. (if it’s a genuine emergency, notify your contact directly as far in advance as possible.)
+- Send a thank you after each and every meeting or interview.
+- Send a follow-up after an interview if you haven’t heard from a company.
+- If you are scheduled for an interview with a company that you aren’t 100% sure about, avoid making assumptions and instead approach the interview with an open mind; ask smart questions that get you the answers you need, and then make your decision based on that. 
+- If you interviewed with a company that you realize after the fact isn’t a good fit, have the professional courtesy to let them know that in a gracious and appreciative manner.
+- Your Career Coach is an expert at professional communication and can help you craft your responses to the scenarios above and many others.
 
 In summary, don’t burn bridges with a company or a person at a company. By doing so you sabotage yourself, your professional credibility, and your reputation with that person or company going forward into your career future. People change jobs, and someone you interviewed with at company A in 2018 could be a hiring manager at company Z in 2020 or beyond. Don’t take that chance.
 
