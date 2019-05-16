@@ -32,7 +32,7 @@ Below are some best practices you must follow to ensure you are cultivating a po
 - If you interviewed with a company that you realize after the fact isn’t a good fit, have the professional courtesy to let them know that in a gracious and appreciative manner.
 - Your Career Coach is an expert at professional communication and can help you craft your responses to the scenarios above and many others.
 
-In summary, don’t burn bridges with a company or a person at a company. By doing so you sabotage yourself, your professional credibility, and your reputation with that person or company going forward into your career future. People change jobs, and someone you interviewed with at company A in 2018 could be a hiring manager at company Z in 2020 or beyond. Don’t take that chance.
+In summary, don’t burn bridges with a company or a person at a company. By doing so you sabotage yourself, your professional credibility, and your reputation with that person or company going forward into your career future. People change jobs, and someone you interviewed with at company A last week could be a hiring manager at company B a year or two from now. Don’t take that chance.
 
 ## Take Initiative
 
@@ -48,7 +48,7 @@ If a recruiter emails you directly to arrange an interview, be proactive by prov
 
 When giving your availability, offer broad windows of time (e.g. 2-5 hour blocks) across multiple days in a week when you can talk/meet. Avoid scheduling early Monday mornings and Friday late afternoons (recruiters are people too).
 
-If a recruiter cancels your interview at the last minute, **do not take it personally.** Respond promptly and indicate that it’s “not a problem” and you’re happy to reschedule, then offer a new set of days/times when you’re free. Recruiters manage numerous schedules and processes and sometimes need to cancel interviews. It doesn’t mean the company isn’t interested. It doesn’t mean the job is filled. Do not scold the hiring manager or use negative language. You’re the one looking for a job. The same goes if a scheduled phone call does not take place. If you are waiting for a call from a recruiter, and you don’t hear from them; do not panic! Simply wait a few minutes past the marker, and send a friendly email letting them know you are still available if they are. Remember following up and a nurturing a lead is your responsibility.
+If a recruiter cancels your interview at the last minute, **do not take it personally.** Respond promptly and indicate that it’s “not a problem” and you’re happy to reschedule, then offer a new set of days/times when you’re free. Recruiters manage numerous schedules and processes and sometimes need to cancel interviews. It doesn’t mean the company isn’t interested. It doesn’t mean the job is filled. Do not scold the hiring manager or use negative language. You’re the one looking for a job. The same goes if a scheduled phone call does not take place. If you are waiting for a call from a recruiter, and you don’t hear from them; do not panic! Simply wait a few minutes past the marker, and send a friendly email letting them know you are still available if they are. Remember, following up and nurturing a lead is your responsibility.
 
 ## Be Professional 
 
@@ -72,7 +72,7 @@ When composing emails, make sure you:
 
 ## Be Appreciative
 
-Get into the habit of saying “thank you” frequently. Thank recruiters when they offer to meet you, when they compliment your app, or when they offer to forward you to a hiring manager. After a technical phone interview with an engineer, email the recruiter to update him/her on how the interview went, and thank them for scheduling the interview.  
+Get into the habit of saying “thank you” frequently. Thank recruiters when they offer to meet you, when they compliment your project or portfolio, or when they offer to forward you to a hiring manager. After a technical skills based phone interview with a member of the hiring team, email the recruiter to update him/her on how the interview went, and thank them for scheduling the interview.  
 
 Appreciation is classy, good etiquette, and critical to the impression you are making on employers.
 
@@ -86,7 +86,7 @@ Here is an example of using a reasonable amount of enthusiasm and appreciation i
 
 >*Thank you very much for your email.*
 
->*Being an avid follower and user of [X Company’s] [Name of] product line/apps for [X amount of time], I am excited to talk with you about what you’re looking for in a developer and how my background in [skills, related experience, etc.] might be a fit.* 
+>*Being an avid follower and user of [X Company’s] [Name of] product line/apps for [X amount of time], I am excited to talk with you about what you’re looking for in a [Name of Job Title] and how my background in [skills, related experience, etc.] might be a fit.* 
 
 >*I can be free to speak by phone Tuesday, Wednesday or Thursday between 12pm and 4pm next week. You can reach me at [xxx-xxx-xxxx]. What day and time are best for you?* 
 
@@ -128,11 +128,11 @@ Examples of phrases to avoid:
 
       “My skills and enthusiasm make me a perfect match for the role at your company.”
 
-These are all generic, vague, and impersonal (and not impressive). Instead speak in your own voice. Be specific and express genuine interest:
+These are all generic, vague, and impersonal (and not impressive). Instead, speak in your own voice. Be specific and express genuine interest:
 
-      "I genuinely believe that my clean, creative code and my enthusiasm for team work could provide a ton of value to a  company like BounceX!"
+      "I genuinely believe that my [specialized, specific skill set] and my enthusiasm for teamwork could provide a ton of value to a company like BounceX!"
       
-      "I am incredibly excited to learn more about the Web Developer role at Snaps, and how I could contribute!"
+      "I am incredibly excited to learn more about the [Job Title] role at Snaps, and how I could contribute!"
 
 ## Don't Share Details That Are Too Personal 
 
