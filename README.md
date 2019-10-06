@@ -14,11 +14,11 @@ Show you are a respectful person by promptly responding to recruiters and hiring
 
 ## Be Responsibly Responsive (Don't 'Ghost' Anyone, Ever)
 
+Always be responsibly responsive. Do not ever ‘ghost’ a person or a company for any reason, especially if it is a person or company who has the potential to influence your ability to obtain a job, now or in the future.  These are dangerous habits that will keep your career stuck in one place. 
+
+## Proactively Communicate
+
 One critical habit to build throughout your entire job search is to be proactively communicative with everyone you interact with on a professional level, including your Career Coach, companies, hiring managers, HR professionals, recruiters, people you meet at career fairs, networking events, coffee chats, job interviews, Flatiron sponsored events, and more (i.e. everyone!).
-
-## Honor Your Commitments
-
-In other words, always be responsibly responsive. Do not ever ‘ghost’ a person or a company for any reason, especially if it is a person or company who has the potential to influence your ability to obtain a job, now or in the future.  These are dangerous habits that will keep your career stuck in one place. Instead, always honor your commitments. This is common courtesy and respect for the other person’s time and a reflection of your own work ethic. How you behave and interact with others is a part of the personal brand you are creating for yourself and the impression you are making. Consider what impression you want to leave on others, especially those who have a direct influence on your candidacy. 
 
 ## Communication Best Practices
 
@@ -49,6 +49,10 @@ If a recruiter emails you directly to arrange an interview, be proactive by prov
 When giving your availability, offer broad windows of time (e.g. 2-5 hour blocks) across multiple days in a week when you can talk/meet. Avoid scheduling early Monday mornings and Friday late afternoons (recruiters are people too).
 
 If a recruiter cancels your interview at the last minute, **do not take it personally.** Respond promptly and indicate that it’s “not a problem” and you’re happy to reschedule, then offer a new set of days/times when you’re free. Recruiters manage numerous schedules and processes and sometimes need to cancel interviews. It doesn’t mean the company isn’t interested. It doesn’t mean the job is filled. Do not scold the hiring manager or use negative language. You’re the one looking for a job. The same goes if a scheduled phone call does not take place. If you are waiting for a call from a recruiter, and you don’t hear from them; do not panic! Simply wait a few minutes past the marker, and send a friendly email letting them know you are still available if they are. Remember, following up and nurturing a lead is your responsibility.
+
+## Honor Your Commitments
+
+Always honor your commitments. This is common courtesy and respect for the other person’s time and a reflection of your own work ethic. How you behave and interact with others is a part of the personal brand you are creating for yourself and the impression you are making. Consider what impression you want to leave on others, especially those who have a direct influence on your candidacy.
 
 ## Be Professional 
 
@@ -92,10 +96,10 @@ Here is an example of using a reasonable amount of enthusiasm and appreciation i
 
 >*Looking forward to hearing from you soon!*
 
->*Best,
->[Your Name]
->[Phone Number]
->[Email]*
+>*Best,*<br/>
+>*[Your Name]*<br/>
+>*[Phone Number]*<br/>
+>*[Email]*
 
 Be mindful of how much enthusiasm you show [and exclamation points!!!]. Don’t overdo it, because it can make you look immature, too informal, or lacking general business etiquette.
 
@@ -103,7 +107,7 @@ Here is an example of using an over-zealous, excess amount of enthusiasm in an e
 
 >*Dear Alexis,* 
 
->*Wow! Thank you, thank you for your email! Being an avid follower and user of [X Company’s] [Name of] product line/apps for nearly my entire life, I am **super excited** to contribute my unique background in [X] and [X] to the [Name of] position and help further drive your amazing innovations forward!*
+>*Wow! Thank you, thank you for your email! Being an avid follower and user of [X Company’s] *[Name of] product line/apps for nearly my entire life, I am **super excited** to contribute my unique background in [X] and [X] to the [Name of] position and help further drive your amazing innovations forward!*
 
 >*I will be available anytime Monday-Friday from 9am-5pm to speak by phone or meet in person. Please let me know which is most convenient for you, or if there is another time you prefer!* 
 
@@ -111,10 +115,10 @@ Here is an example of using an over-zealous, excess amount of enthusiasm in an e
 
 >*Thank you so much! I look forward to your reply!*
 
->*Sincerely,* 
->*[Your Name]
->[Phone Number]
->[Email]*
+>*Sincerely,*<br/>
+>*[Your Name]*<br/>
+>*[Phone Number]*<br/>
+>*[Email]*<br/>
 
 ## Be Genuine
 
