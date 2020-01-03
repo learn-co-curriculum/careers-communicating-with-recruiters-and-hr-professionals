@@ -25,7 +25,7 @@ In other words, always be responsibly responsive. Do not ever ‘ghost’ a pers
 Below are some best practices you must follow to ensure you are cultivating a positive relationship and impression throughout your job search and career as a whole.
 
 - Always reply back to a communication requests from a company in a timely manner (especially if facilitated by Flatiron School), whether they are emails, phone calls, etc.
-- Always show up for scheduled conversations/interviews, whether phone, virtual, or in-person. (if it’s a genuine emergency, notify your contact directly as far in advance as possible.)
+- Always show up for scheduled conversations/interviews, whether phone, virtual, or in-person. (If it’s a genuine emergency, notify your contact directly as far in advance as possible.)
 - Send a thank you after each and every meeting or interview.
 - Send a follow-up after an interview if you haven’t heard from a company.
 - If you are scheduled for an interview with a company that you aren’t 100% sure about, avoid making assumptions and instead approach the interview with an open mind; ask smart questions that get you the answers you need, and then make your decision based on that. 
